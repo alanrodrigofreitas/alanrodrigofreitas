@@ -1,11 +1,11 @@
 # Olá, sou @alanrodrigofreitas 👋
 
 ## Sobre Mim
-👀 Estou interessado em desenvolvimento de software, ciência de dados e tecnologias emergentes.
+👀 Estou interessado em desenvolvimento web, segurança da informação e programação em JavaScript e Python.
 
-🌱 Atualmente estou aprendendo sobre inteligência artificial e desenvolvimento web.
+🌱 Atualmente estou aprendendo sobre inteligência artificial e aprendizado de máquina.
 
-💞️ Procuro colaborar em projetos de código aberto e iniciativas que envolvem aprendizado de máquina.
+💞️ Procuro colaborar em projetos de código aberto e iniciativas que envolvem cibersegurança.
 
 ## Entre em Contato
 📫 Você pode entrar em contato comigo pelo e-mail: arfrei47@outlook.com ou pelo [LinkedIn](https://www.linkedin.com/in/arfrei47).
@@ -14,4 +14,4 @@
 😄 Meus pronomes são ele/dele.
 
 ## Curiosidade
-⚡ Uma curiosidade sobre mim: eu adoro jogos de tabuleiro e programação em Python!
+⚡ Algumas curiosidades sobre mim: Eu adoro livros, jogos e tecnologia da informação.
