@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @alanrodrigofreitas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👨‍💻 Tecnólogo em Cibersegurança
 
-<!---
-alanrodrigofreitas/alanrodrigofreitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Pós-graduado em Desenvolvimento Front-end
+
+🔒 Especialista em proteger sistemas e dados, com uma paixão por criar experiências digitais seguras e dinâmicas.
+
+🚀 Experiência em implementar soluções de segurança, auditorias e monitoramento, combinada com habilidades no desenvolvimento de interfaces intuitivas e responsivas.
+
+💡 Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades em segurança e desenvolvimento web.
+
+🔧 Tecnologias que estou explorando: HTML, CSS, JavaScript, Bootstrap, React, Web API Security, Python, Solidity e C++.
+
+📚 Acredito que a segurança começa desde o design e o desenvolvimento deve ser feito com foco em privacidade e performance.
