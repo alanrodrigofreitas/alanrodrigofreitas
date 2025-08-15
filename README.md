@@ -1,6 +1,6 @@
-👨‍💻 Tecnólogo em Cibersegurança
+👨‍💻 Tecnólogo em Cibersegurança.
 
-💻 Pós-graduado em Desenvolvimento Front-end
+💻 Pós-graduado em Desenvolvimento Front-end.
 
 🔒 Especialista em proteger sistemas e dados, com uma paixão por criar experiências digitais seguras e dinâmicas.
 
